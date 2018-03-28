@@ -8,7 +8,7 @@ import java.util.ArrayList;
  * 
  * This class allows the user to manually check the input at specific times, 
  * rather than having to set up action listeners for key pressed and manage which are pressed themselves.
- * @author Joshua DeMoss
+ * @author Joshua DeMoss & Everyone else
  */
 public class Input {
 
